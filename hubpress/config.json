@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://juegomania.github.io",
+    "site": "http://juegomania.xyz",
     "hubpress": "https://juegomania.github.io",
-    "theme": "//juegomania.github.io/themes/casper",
-    "images": "https://juegomania.github.io/images"
+    "theme": "//juegomania.xyz/themes/casper",
+    "images": "http://juegomania.xyz/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
@@ -29,8 +29,8 @@
     ]
   },
   "site": {
-    "title": "",
-    "description": "",
+    "title": "JuegoManía Latinoamérica",
+    "description": "Información sobre la actualidad de la tecnología y los videojuegos.",
     "logo": "",
     "cover": "",
     "delay": "",
